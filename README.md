@@ -72,6 +72,10 @@ todo-list-app/
 - CSS for styling
 
 ---
+- [Github Repo Link](https://github.com/Rathan97/todo-list-app)
+
+
+---
 
 ## 🙌 Usage
 
